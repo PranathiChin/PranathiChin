@@ -7,7 +7,9 @@ I am currently a sophomore studying Computer Science and Economics @NYU 🔭
 - 🌱 I’m am interested in AI and Game Design 
 - 📫 How to reach me: pranathichc@gmail.com OR 904-315-7566
 
-😸 Tech Stack: Python, Java, HTMl, CSS, Javascript, NumPy, Pandas, Unity 
+👩‍💻 Tech Stack: Python, Java, HTMl, CSS, Javascript, NumPy, Pandas,  
+📚 Currently Learning: Unity 
+🔎 Want to Learn: PostgreSQL, Web3, DApps, Node, React,
 
 
 
