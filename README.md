@@ -9,7 +9,7 @@ I am currently a sophomore studying Computer Science and Economics @NYU 🔭
 
 👩‍💻 Tech Stack: Python, Java, HTMl, CSS, Javascript, Processing 
 
-📚 Learning: Unity, PostgreSQL, Web3, DApps, Node, React
+📚 Learning: Unity, Node, React
 
 
 
