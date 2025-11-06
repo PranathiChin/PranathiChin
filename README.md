@@ -4,24 +4,13 @@
 
 ---
 
-<div align="center">
-  
-  ![GitHub followers](https://img.shields.io/github/followers/pranathic?style=for-the-badge&logo=github&color=FF6B9D)
-  ![GitHub User's stars](https://img.shields.io/github/stars/pranathic?style=for-the-badge&logo=github&color=FF6B9D)
-  ![Profile Views](https://komarev.com/ghpvc/?username=pranathic&style=for-the-badge&color=FF6B9D)
-  
-</div>
-
----
-
 ## 👋 About Me
 
 ```yaml
-Name: Pranathi
+Name: Pranathi Chinthalapani 
 Location: New York, NY
 Education: Senior @ NYU
 Major: Computer Science & Economics
-Status: 🚀 Building cool stuff
 ```
 
 ---
@@ -70,35 +59,3 @@ Status: 🚀 Building cool stuff
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranathic&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)
   
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=pranathic&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=3)
-  
-</div>
-
----
-
-## 📬 Contact
-
-<div align="center">
-  
-  <a href="mailto:pranathichc@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="tel:+19043157566">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone" />
-  </a>
-  <a href="https://linkedin.com/in/pranathic">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/pranathic">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  
-</div>
-
