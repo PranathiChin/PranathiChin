@@ -102,18 +102,3 @@ Status: 🚀 Building cool stuff
   
 </div>
 
----
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/pranathic/pranathic/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ![Visitor Count](https://profile-counter.glitch.me/pranathic/count.svg)
-  
-</div>
